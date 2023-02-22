@@ -1,3 +1,7 @@
+## ajeecai version
+
+The file `http-api.js` in example is deleted in original repository, but I need it for a quick proxy server for chatgpt, so get it back with some modification.
+
 ## For support join [[Discord](https://discord.pawan.krd)]
 
 # chatgpt-io - Unofficial API client for ChatGPT [[Discord](https://discord.pawan.krd)]
