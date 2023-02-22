@@ -2,6 +2,10 @@
 
 The file `http-api.js` in example is deleted in original repository, but I need it for a quick proxy server for chatgpt, so get it back with some modification.
 
+To run, `node http-api.js`. In case not able to chat, get token from __Secure-next-auth.session-token in browser login, replace myToken below and then replace config/default-chatgpt-io.json with {} and run again, then revert myToken back afterwards and run `node http-api.js` again.
+
+This proxy agent is using the different conversation id on json config for different users
+
 ## For support join [[Discord](https://discord.pawan.krd)]
 
 # chatgpt-io - Unofficial API client for ChatGPT [[Discord](https://discord.pawan.krd)]
